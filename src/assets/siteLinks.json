@@ -1,37 +1,27 @@
 [
   {
     "icon": "Blog",
-    "name": "博客",
-    "link": "https://blog.imsyy.top/"
-  },
-  {
-    "icon": "Cloud",
-    "name": "网盘",
-    "link": "https://pan.imsyy.top/"
-  },
-  {
-    "icon": "CompactDisc",
-    "name": "音乐",
-    "link": "https://music.imsyy.top/"
+    "name": "资源网站",
+    "link": "https://ziyuanxiong.cn/"
   },
   {
     "icon": "Compass",
-    "name": "起始页",
-    "link": "https://nav.imsyy.top/"
+    "name": "导航网站",
+    "link": "https:/xibel.cn/"
+  },
+  {
+    "icon": "Cloud",
+    "name": "网盘(密码:w3g7)",
+    "link": "https://pan.xunlei.com/s/VNzleLF45yJBmejvu-iqj3qKA1?pwd=w3g7#"
   },
   {
     "icon": "Book",
-    "name": "网址集",
-    "link": "https://web.imsyy.top/"
+    "name": "开发者导航",
+    "link": "https://xiongzai.zeabur.app/"
   },
   {
     "icon": "Fire",
     "name": "今日热榜",
-    "link": "https://hot.imsyy.top/"
-  },
-  {
-    "icon": "LaptopCode",
-    "name": "站点监测",
-    "link": "https://status.imsyy.top/"
+    "link": "https://xibel.cn/hotnews/"
   }
 ]
