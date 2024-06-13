@@ -28,5 +28,20 @@
     "icon": "Fire",
     "name": "今日热榜",
     "link": "https://xibel.cn/hotnews/"
+  },
+  {
+    "icon": "Blog",
+    "name": "美团图床",
+    "link": "https://tk.ysou.cc"
+  },
+  {
+    "icon": "Compass",
+    "name": "开发者导航",
+    "link": "https://xiongzai.zeabur.app/"
+  },
+  {
+    "icon": "LaptopCode",
+    "name": "发现网址",
+    "link": "https://nav.xibel.cn"
   }
 ]
