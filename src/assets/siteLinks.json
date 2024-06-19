@@ -38,5 +38,10 @@
     "icon": "LaptopCode",
     "name": "发现网址",
     "link": "https://nav.xibel.cn"
+  },
+  {
+    "icon": "Blog",
+    "name": "大胆点er",
+    "link": "https://xibel.us.kg"
   }
 ]
